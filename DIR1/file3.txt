@@ -1,0 +1,10 @@
+    1  mkdir -p "My Documents"/Excel 
+    2  cd "My Documents"
+    3  mkdir -p "Power Point" Word
+    4  tree ..
+    5  sudo apt  install tree  # version 2.0.2-1
+    6  tree ..
+    7  mv -v -i "My Documents"/Excel Documents  
+    8  mv -v -i Excel Documents  
+    9  mkdir -p Excel "Power Point" Word
+   10  tree
